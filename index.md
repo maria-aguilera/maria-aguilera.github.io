@@ -8,7 +8,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/forest-cover-type-prediction/blob/main/forest-cover-type-classification.ipynb)
 
 <div style="text-align: justify"> The task was to redict the forest cover type (the predominant kind of cover) from strictly catographic variables. Comprehensive exploratory data anlysis to understand the important and significance of the variables variables, identifying  outliers, correlations and peforming feature engineering to increase the accuracy of the prediction.
-* ***Skills***: Python | Matplotlib | Seaborn | Plotly | Scikit- learn Pipelines | Grid search | Hyperparameter Configuration | Data Visualization
+* **Skills**: Python | Matplotlib | Seaborn | Plotly | Scikit- learn Pipelines | Grid search | Hyperparameter Configuration | Data Visualization
 <br>
 <center><img src="images/forest-cover-type.jpeg"/></center>
 <br>
