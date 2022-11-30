@@ -2,10 +2,20 @@
 ---
 ## Machine Learning 
 
-### Machine Learning II Project: Forest Cover Type Prediction
-*  The goal was to create a model to predict the forest cover type and attain the highest score, compared to the other teams in our class. My team and I got the highest score.
+### Kaggle Competition: Predict Forest Cover Type using Naive Bayes, KNN Classifier, XGBoost, Random Forest and Extra Trees 
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/forest-cover-type-classification.html)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/forest-cover-type-prediction/blob/main/forest-cover-type-classification.ipynb)
+
+<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<br>
+<center><img src="images/ames-house-price.jpg"/></center>
+<br>
+
+
+*  Predict the forest cover type (the predominant kind of cover) from strictly catographic variables.
 * ***Skills***: Python | Matplotlib | Seaborn | Plotly | Scikit- learn Pipelines | Grid search | Hyperparameter Configuration | Data Visualization
-[![View on GitHub](https://github.com/maria-aguilera/forest-cover-type-prediction)
+
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
@@ -105,3 +115,6 @@
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+
+
+[def]: projects/forest-cover-type-classification.html
