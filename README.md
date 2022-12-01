@@ -1,1 +1,1 @@
-Check out my minimal portfolio [here] (https://maria-aguilera.github.io/maria-aguilera.github.io)
+:smirk:Check out my minimal portfolio [here :smirk:](https://maria-aguilera.github.io/maria-aguilera.github.io)
