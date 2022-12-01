@@ -23,7 +23,7 @@
 <br>
 <div style="text-align: justify">Focus on data cleaning, feature relationship, missing values, data cleaning, feature engineering and modeling pipelines with very useful visuals.</div>
 
-* The data can we downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
+* The data can be downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
 * ***Skills***: Data Cleaning | Pipeline | GridSearch | Missing Values | Data Exploration | Crossvalidation
 <br>
 <center><img src ="images/Age.png" width = "1000"/> </center>
