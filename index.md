@@ -31,10 +31,11 @@
 <table><tr>
 <td><img src="images/CabinRegion.png" style= "width: 500" /></td>
 <td> <img src="images/Homeplanet and Deck Relationship.png" style= "width: 500" /> </td>
-</tr><table>
+</tr></table>
 <br>
 
 ---
+
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
