@@ -28,7 +28,13 @@
 * ***Skills***: Data Cleaning | Pipeline | GridSearch | Missing Values | Data Exploration | Crossvalidation
 <br>
 <center><img src ="images/Age.png" width = "1000"/> </center>
-<center><img src="images/Model Results.png"/></center>
+<table><tr>
+<td><img src="images/CabinRegion.png" style= "width: 500px" /></td>
+<td> <img src="images/Homeplanet and Deck Relationship.png" style= "width: 500px" /> </td>
+</tr><table>
+
+<center><img src="images/Model Results.png" /></center>
+
 <br>
 
 ---
