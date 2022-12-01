@@ -22,10 +22,9 @@
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GgTDc8bqNdoxLfQ9bRVZQ1OFKEhcYz4x#scrollTo=kpC_nDA0OkkQ&uniqifier=1)
 <br>
-<div style="text-align: justify">Focus on data cleaning, feature relationship, missing values, data cleaning, feature engineering and modeling pipelines with very useful visuals..</div>
+<div style="text-align: justify">Focus on data cleaning, feature relationship, missing values, data cleaning, feature engineering and modeling pipelines with very useful visuals.The data can we downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)</div>
 
-* The data can we downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
-
+* ***Skills***: Data Cleaning | Pipeline | GridSearch | Missing Values | Data Exploration | Crossvalidation
 <br>
 <br>
 <div style="text-align: justify"> 
