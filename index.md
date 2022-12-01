@@ -39,7 +39,7 @@
 <td><img src="images/PassengerLinearRegressionCabin.png" style= "width: 500px; height: 180px"/></td>
 <td><img src="images/Model Results.png" style= "width: 500px; height: 180px"/></td>
 </tr><table>
-
+</div>
 
 ---
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
