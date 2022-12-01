@@ -37,9 +37,10 @@
 
 ---
 ## Social Network Analysis
+
 ### Analyzing Instagram Data Set using Graphs
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](file:///C:/Users/maria/Documents/pagesportfolio/maria-aguilera.github.io/projects/forest-cover-type-classification.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/forest-cover-type-classification.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/graph-analysis/blob/main/sna-instagram-network-analysis.ipynb)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ryydAJtLAJnjCMqVtIGNvLQh4qfEnSXc#scrollTo=TflFLV0YPFi1)
 
