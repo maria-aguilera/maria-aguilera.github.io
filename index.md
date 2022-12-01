@@ -32,7 +32,7 @@
 <img src ="images/Age.png" width = "1000"/> 
 
 <table><tr>
-<td><img src="images/CabinRegion.png"style= "width: 500" /></td>
+<td><img src="images/CabinRegion.png" style= "width: 500" /></td>
 <td> <img src="images/Homeplanet and Deck Relationship.png" style= "width: 500" /> </td>
 </tr><table>
 <tr><table>
