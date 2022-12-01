@@ -22,13 +22,16 @@
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GgTDc8bqNdoxLfQ9bRVZQ1OFKEhcYz4x#scrollTo=kpC_nDA0OkkQ&uniqifier=1)
 <br>
-<div style="text-align: justify">Focus on data cleaning, feature relationship, missing values, data cleaning, feature engineering and modeling pipelines with very useful visuals.The data can we downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)</div>
+<div style="text-align: justify">Focus on data cleaning, feature relationship, missing values, data cleaning, feature engineering and modeling pipelines with very useful visuals.The data can we downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
+
+</div>
 
 * ***Skills***: Data Cleaning | Pipeline | GridSearch | Missing Values | Data Exploration | Crossvalidation
 <br>
 <br>
 <div style="text-align: justify"> 
 <img src ="images/Age.png" width = "1000"/> 
+
 <table><tr>
 <td><img src="images/CabinRegion.png"style= "width: 500" /></td>
 <td> <img src="images/Homeplanet and Deck Relationship.png" style= "width: 500" /> </td>
@@ -36,7 +39,7 @@
 <tr><table>
 <td><img src="images/PassengerLinearRegressionCabin.png" style= "width: 500px; height: 180px"/></td>
 <td><img src="images/Model Results.png" style= "width: 500px; height: 180px"/></td>
-<tr><table>
+</tr><table>
 
 
 ---
