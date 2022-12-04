@@ -63,7 +63,7 @@
 
 * ***Skills***: Exploratory Data Analysis | Data Cleaning & Analysis | Time- Based Cross Validation | Python
 <br>
-<center><img src = "images\Box Plot per Hour.png"/></center>
+<center><img src = "images\bike-sharing.png"/></center>
 <center><img src="images\work_not_working.png" /></center>
 <br>
 
