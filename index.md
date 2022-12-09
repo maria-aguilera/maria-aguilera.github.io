@@ -34,10 +34,9 @@
 <td><img src="images/CabinRegion.png" style= "width: 500" /></td>
 <td> <img src="images/Homeplanet and Deck Relationship.png" style= "width: 500" /> </td>
 </tr></table>
-<br>
+
 
 ---
-
 ### 🚲 Predict number bicycle users on an hourly basis🚲
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/bike-sharing.html)
