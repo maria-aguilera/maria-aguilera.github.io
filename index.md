@@ -73,10 +73,9 @@
 ## Reinforcement Learning
 
 ### 🚗Training AWS Car 🚗
-<video src="Limages\rl\VID_20220607_160239.mp4" controls="controls" style="max-width: 730px;">
-</video>
 
-<video src= "https://user-images.githubusercontent.com/106109665/206740115-8cf5a0ac-b008-4bc0-8941-b59990bfd9cc.mp4" controls="controls" style="max-width: 730px;">
+<center>
+<video src= "https://user-images.githubusercontent.com/106109665/206740115-8cf5a0ac-b008-4bc0-8941-b59990bfd9cc.mp4" controls="controls" style="max-width: 600px;"></center>
 </video>
 
 <br>
