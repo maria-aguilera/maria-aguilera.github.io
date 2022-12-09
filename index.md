@@ -77,13 +77,12 @@
 <center>
 <video src= "https://user-images.githubusercontent.com/106109665/206740115-8cf5a0ac-b008-4bc0-8941-b59990bfd9cc.mp4" controls="controls" style="max-width: 600px;"></center>
 </video>
-
 <br>
 
 ---
 
-
 ### Lundar Landing Assignment
+
 Our goal is to teach the Lunar Lander (our agent) how to correctly land their spaceship between two flags (our landing pad). The more accurately the agent is able to land, the bigger the ultimate reward he will be able to attain. The agent may choose any of the following four actions at any moment to achieve this objective: fire the left engine, fire the right engine, fire down the engine, or do nothing.
 
 
