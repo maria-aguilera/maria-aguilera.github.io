@@ -37,6 +37,23 @@
 <br>
 
 ---
+
+### 🚲 Predict number bicycle users on an hourly basis🚲
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/bike-sharing.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/bike-sharing/blob/main/2_Group_A_Bike_Sharing.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ryydAJtLAJnjCMqVtIGNvLQh4qfEnSXc#scrollTo=TflFLV0YPFi1)
+
+<div style="text-align: justify">Goal was to predict the total number of Washington D.C bicycle users on an hourly basis.</div>
+
+* ***Skills***: Exploratory Data Analysis | Data Cleaning & Analysis | Time- Based Cross Validation | Python
+<br>
+<center><img src = "images\bike-sharing.png"/></center>
+<center><img src="images\work_not_working.png" /></center>
+<br>
+
+
+---
 ## Social Network Analysis
 
 ### ☎ Analyzing Instagram Data Set using Graphs ☎
@@ -52,30 +69,9 @@
 <center><img src="images/gephi.jpeg" width = "700px"/></center>
 <br>
 
----
-### 🚲 Predict number bicycle users on an hourly basis🚲
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/bike-sharing.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/bike-sharing/blob/main/2_Group_A_Bike_Sharing.ipynb)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ryydAJtLAJnjCMqVtIGNvLQh4qfEnSXc#scrollTo=TflFLV0YPFi1)
-
-<div style="text-align: justify">Goal was to predict the total number of Washington D.C bicycle users on an hourly basis.</div>
-
-* ***Skills***: Exploratory Data Analysis | Data Cleaning & Analysis | Time- Based Cross Validation | Python
-<br>
-<center><img src = "images\bike-sharing.png"/></center>
-<center><img src="images\work_not_working.png" /></center>
-<br>
-
----
-
----
-### 
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
-
-
-[def]: projects/forest-cover-type-classification.html
 
 
