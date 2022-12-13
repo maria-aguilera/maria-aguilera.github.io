@@ -1,6 +1,5 @@
 # Portfolio
 ## Machine Learning 
----
 ###  🚵‍♀️Kaggle Competition: Predict Forest Cover Type using Naive Bayes, KNN Classifier, XGBoost, Random Forest and Extra Trees🚵‍♀️ 
 
 
@@ -52,7 +51,6 @@
 
 ---
 ## Social Network Analysis
-
 ### ☎ Analyzing Instagram Data Set using Graphs ☎
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/forest-cover-type-classification.html)
@@ -67,12 +65,8 @@
 <br>
 
 ---
-
 ## Reinforcement Learning
-
 ### 🌔 Lundar Landing Assignment 🌔
-
----
 
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Open_in_Hugging_Face-blue)](https://huggingface.co/maria-aguilera/ppo-LunarLander-v2)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/19m9fhUUrC8mJQzE6Ilieipgss8JIw4Xq#scrollTo=V7JUZKw5kq0m)
@@ -80,21 +74,20 @@
 
 Our goal is to teach the Lunar Lander (our agent) how to correctly land their spaceship between two flags (our landing pad). The more accurately the agent is able to land, the bigger the ultimate reward he will be able to attain. The agent may choose any of the following four actions at any moment to achieve this objective: fire the left engine, fire the right engine, fire down the engine, or do nothing.
 
+
 <center>
-<video src= "https://user-images.githubusercontent.com/106109665206821758-a26f28bb-8958-4a19-b773-f394048eb8ff.mp4" controls="controls" ></center>
+<video src= "https://user-images.githubusercontent.com/106109665206821758-a26f28bb-8958-4a19-b773-f394048eb8ff.mp4" controls="controls" style="max-width: 600px;"></center>
 </video>
 <br>
-
 
 ---
 ### 🚗Training AWS Car 🚗
 
+
 <center>
-<video src= "https://user-images.githubusercontent.com/106109665/206740115-8cf5a0ac-b008-4bc0-8941-b59990bfd9cc.mp4" controls="controls" style="max-width: 600px;"></center>
+<video src= "https://user-images.githubusercontent.com/106109665/207410662-0e2fd31a-5758-48d7-a39c-bf847d4cadea.mp4"controls="controls" style="max-width: 600px;"></center>
 </video>
 <br>
-
-
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
