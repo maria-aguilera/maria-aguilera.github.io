@@ -85,7 +85,7 @@ Our goal is to teach the Lunar Lander (our agent) how to correctly land their sp
 
 
 <center>
-<video src= "https://user-images.githubusercontent.com/106109665/207410662-0e2fd31a-5758-48d7-a39c-bf847d4cadea.mp4"controls="controls" style="max-width: 400px;"></center>
+<video src= "https://user-images.githubusercontent.com/106109665/207410662-0e2fd31a-5758-48d7-a39c-bf847d4cadea.mp4"controls="controls" style="max-width: 500px;"></center>
 </video>
 <br>
 
