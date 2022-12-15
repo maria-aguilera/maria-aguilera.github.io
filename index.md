@@ -82,7 +82,7 @@ Our goal is to teach the Lunar Lander (our agent) how to correctly land their sp
 
 ---
 ### 🚗Training AWS Car 🚗
-The goal was to create a custom reward function so that the AWS Deep Racer completed a certain .... as fastest as possible, accuratey. An example of a reward function would be:
+The goal was to create a custom reward function so that the AWS Deep Racer completes an unseen track as fastest as possible, and as accurately as possible. An example of a reward function would be:
 
 
 ```python
