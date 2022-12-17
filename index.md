@@ -74,6 +74,7 @@
 
 Our goal is to teach the Lunar Lander (our agent) how to correctly land their spaceship between two flags (our landing pad). The more accurately the agent is able to land, the bigger the ultimate reward he will be able to attain. The agent may choose any of the following four actions at any moment to achieve this objective: fire the left engine, fire the right engine, fire down the engine, or do nothing.
 
+{% include youtubePlayer.html id=page.RSggurOx6Ug %}
 
 <center>
 <video src= "images\rl\ll_Trim.mp4" controls="controls" style="max-width: 400px;"></center>
@@ -136,6 +137,9 @@ def reward_function(params):
     return speed_reward + heading_reward + steering_reward
 
 ```
+
+{% include youtube.html id="RSggurOx6Ug" %}  
+
 
 <center>
 <video src= "images\rl\VID_20220607_160239_Trim.mp4"controls="controls" style="max-width: 500px;"></center>
