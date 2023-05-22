@@ -12,7 +12,7 @@
 <center><img src="images/forest-cover-type2.png"/></center>
 
 ---
-### 🚀Kaggle Competition: Predicting whether passenger was sent to another dimension using manu models and parameters🚀
+### 🚀Kaggle Competition: Predicting whether passenger was sent to another dimension🚀
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/spaceship-titanic.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/spaceship-titanic)
