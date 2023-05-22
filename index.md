@@ -1,7 +1,10 @@
 # Portfolio
+## Major Projects
 ### Corporate Data Breaches and Narrative Disclosures
   <a href="pdf/version_final_corporate_data_breaches_and_narrative_disclosures.pdf">Thesis</a>
-Conducted an undergraduate thesis project on how data breaches affect corporate communication of public U.S. data breached firms. Examined whether managers engage in managerial discretionary disclosure behavior in the 10-K annual reports or whether they provide incrementally useful information aimed at enhancing decision making by filing infrastructure gaps.
+
+* Conducted an undergraduate thesis project on how data breaches affect corporate communication of public U.S. data breached firms. 
+* Examined whether managers engage in managerial discretionary disclosure behavior in the 10-K annual reports or whether they provide incrementally useful information aimed at enhancing decision making by filing infrastructure gaps.
 
 **Skills**: R (Tidy verse, ggplot, lubridate, PostgreSQL), Fuzzy Matching (Fuzzy-Lookup Add-in), Econometrics & Statistics (DID, Logit, Fixed Effects).
 
