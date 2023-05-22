@@ -1,27 +1,35 @@
 # Portfolio
 ## Machine Learning 
-###  🚵‍♀️Kaggle Competition: Predict Forest Cover Type using Naive Bayes, KNN Classifier, XGBoost, Random Forest and Extra Trees🚵‍♀️ 
+###  🚵‍♀️ Kaggle Competition: Forest Cover Type Prediction🚵‍♀️ 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/forest-cover-type-classification.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](forest_cover_type_classification.ipynb)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/15ZeArEeEWVRx-fLyK-ZtKPeqxLpz3H_B)
 
-<div style="text-align: justify"> The task was to predict the forest cover type (the predominant kind of cover) from strictly catographic variables. Comprehensive exploratory data anlysis to understand the importance and significance of the variables variables, identifying  outliers, correlations and peforming feature engineering to increase the accuracy of the prediction..</div>
+<div style="text-align: justify"> 
 
-*  ***Skills***: Python | Matplotlib | Seaborn | Plotly | Scikit- learn Pipelines | Grid search | Hyperparameter Configuration | Data Visualization
+* Conducted a project on Machine Learning II and achieved the highest accuracy score compared to the other teams.
+* Analyzed, cleaned, pre-processed and engineered features for the creation of machine learning models.
+* Achieved a grade of 10/10</div>
+
+
+***Skills***: Python | Matplotlib | Seaborn | Plotly | Scikit- learn Pipelines | Grid search | Hyperparameter Configuration | Data Visualization
 <br>
 <center><img src="images/forest-cover-type2.png"/></center>
 
 ---
-### 🚀Kaggle Competition: Predicting whether passenger was sent to another dimension🚀
+### 🚀Kaggle Competition: Determining the Fate of Passengers in an Alternate Dimension 🚀
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/spaceship-titanic.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/spaceship-titanic)
 [![Run Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GgTDc8bqNdoxLfQ9bRVZQ1OFKEhcYz4x#scrollTo=kpC_nDA0OkkQ&uniqifier=1)
 <br>
-<div style="text-align: justify">Focus on data cleaning, feature relationship, missing values, data cleaning, feature engineering and modeling pipelines with very useful visuals.</div>
+<div style="text-align: justify">
 
-* The data can be downloaded in [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
-* ***Skills***: Data Cleaning | Pipeline | GridSearch | Missing Values | Data Exploration | Crossvalidation
+* Explored data cleaning, feature relationships, handling missing values, feature engineering, and developed modeling pipelines with informative visualizations.
+* The data can be downloaded from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic)
+
+***Skills***: Data Cleaning | Pipeline Development | GridSearch | Hadnling Missing Values | Data Exploration | Cross- validation
+</div>
 <br>
 <center><img src ="images/Age.png" width = "1000"/> </center>
 <center><img src="images/Model Results.png" /></center>
@@ -30,7 +38,6 @@
 <td> <img src="images/Homeplanet and Deck Relationship.png" style= "width: 500" /> </td>
 </tr></table>
 
-
 ---
 ### 🚲 Predict number bicycle users on an hourly basis🚲
 
@@ -38,9 +45,14 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/bike-sharing/blob/main/2_Group_A_Bike_Sharing.ipynb)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ryydAJtLAJnjCMqVtIGNvLQh4qfEnSXc#scrollTo=TflFLV0YPFi1)
 
-<div style="text-align: justify">Goal was to predict the total number of Washington D.C bicycle users on an hourly basis.</div>
+<div style="text-align: justify">
 
-* ***Skills***: Exploratory Data Analysis | Data Cleaning & Analysis | Time- Based Cross Validation | Python
+* Conducted a Python II Group Final Project to predict the total number of Washington D.c bycle users on an hourly basis.
+* Conducted Exploratory Data Analysis, Data Cleaning & Analysis, and Time-Based Cross Validation.
+Goal was to predict the total number of Washington D.C bicycle users on an hourly basis.
+
+***Skills***: Data Visualization | Python
+</div>
 <br>
 <center><img src = "images\bike-sharing.png"/></center>
 <center><img src="images\work_not_working.png" /></center>
@@ -49,15 +61,21 @@
 
 ---
 ## Social Network Analysis
-### ☎ Analyzing Instagram Data Set using Graphs ☎
+### ☎ nstagram Graph Analysis and Community Detection Algorithms ☎
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/forest-cover-type-classification.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/graph-analysis/blob/main/sna-instagram-network-analysis.ipynb)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1ryydAJtLAJnjCMqVtIGNvLQh4qfEnSXc#scrollTo=TflFLV0YPFi1)
 
-<div style="text-align: justify"> Using graph analysis, analyze the instagram data set available in Kaggle to find out the most influential members of the network to increase sales by advertisement. The dataset was too large to process, we therefore had to do exploratory data analysis to check how to reduce it so that it doesn't become a random network.</div>
+<div style="text-align: justify"> 
 
-* ***Skills***: GraphX | Comunity Detection Algorithims
+* Using graph algorithims and GraphX to analyze and explore different patterns and communities in the instagram dataset. 
+* Found out the most influential members of the network to increase sales by advertisement. 
+* As the dataset was too large to process, we  had to do exploratory data analysis to check how to reduce it so that it didn't become a random network.
+
+***Skills***: GraphX | Comunity Detection Algorithims
+</div>
+
 <br>
 <center><img src="images/gephi.jpeg" width = "500px"/></center>
 <br>
@@ -69,10 +87,13 @@
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Open_in_Hugging_Face-blue)](https://huggingface.co/maria-aguilera/ppo-LunarLander-v2)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/19m9fhUUrC8mJQzE6Ilieipgss8JIw4Xq#scrollTo=V7JUZKw5kq0m)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maria-aguilera/lunar-landing-ppo)
+<div style="text-align: justify"> 
 
-Our goal is to teach the Lunar Lander (our agent) how to correctly land their spaceship between two flags (our landing pad). The more accurately the agent is able to land, the bigger the ultimate reward he will be able to attain. The agent may choose any of the following four actions at any moment to achieve this objective: fire the left engine, fire the right engine, fire down the engine, or do nothing.
-
-
+* Our goal is to teach the Lunar Lander (our agent) how to correctly land their spaceship between two flags (our landing pad).
+*  The more accurately the agent is able to land, the bigger the ultimate reward he will be able to attain. 
+* The agent may choose any of the following four actions at any moment to achieve this objective: fire the left engine, fire the right engine, fire down the engine, or do nothing.
+***Skills***: Reinforcement Learning | Game Theory | Hyperparameter Tuning
+</div>
 
 <p align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RSggurOx6Ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -82,9 +103,9 @@ Our goal is to teach the Lunar Lander (our agent) how to correctly land their sp
 
 ---
 ### 🚗Training AWS Car 🚗
-The goal was to create a custom reward function so that the AWS Deep Racer completes an unseen track as fastest as possible, and as accurately as possible. An example of a reward function would be:
+* The goal was to create a custom reward function so that the AWS Deep Racer completes an unseen track as fastest as possible, and as accurately as possible. An example of a reward function would be:
 
-
+***Skills***: Reinforcement Learning | Game Theory | Hyperparameter Tuning
 ```python
 
 def reward_function(params):
@@ -115,10 +136,9 @@ def reward_function(params):
 ## Major Projects
 ### Corporate Data Breaches and Narrative Disclosures
   <a href="pdf/version_final_corporate_data_breaches_and_narrative_disclosures.pdf">Link</a>
-
-* Conducted an undergraduate thesis project on how data breaches affect corporate communication of public U.S. data breached firms. 
-* Examined whether managers engage in managerial discretionary disclosure behavior in the 10-K annual reports or whether they provide incrementally useful information aimed at enhancing decision making by filing infrastructure gaps.
-* Awarded 2019, 2020 INNCYBER Innovation Award with a grade of 9.7/10.
+* Undergraduate Thesis Project & 2019, 2020 INNCYYBER Innovation Award: <a href="pdf/version_final_corporate_data_breaches_and_narrative_disclosures.pdf">Link</a>
+* The goal was to examine how data breaches affect corporate communication of public U.S. data breached firms by examining whether managers engage in managerial discretionary disclosure behavior in the 10-K annual reports or whether they provide incrementally useful information aimed at enhancing decision making by filing infrastructure gaps.
+* Grade:  9.7/10.
 
 **Skills**: R (Tidy verse, ggplot, lubridate, PostgreSQL), Fuzzy Matching (Fuzzy-Lookup Add-in), Econometrics & Statistics (DID, Logit, Fixed Effects).
 <br>
@@ -127,7 +147,18 @@ def reward_function(params):
 
 
 ---
+### Master Thesis Project: Raw Material Forecasting of Industrias Duero
 
+* Collaborated with five classmates to optimize the supply chain cycle to improve the company’s inventory turnover by predicting the demand and volume of raw material.
+* Implemented predictive modelling strategies using machine learning, data science and time series forecasting techniques (e.g., ARIMA, ARMA, SARIMA, GARCH) and big data analysis (>1.5 M data points).
+
+**Skills**: Python, Facebook Prophet, Time Series Analysis & Forecasting, XGboost, Catboost, Microsoft Power BI.
+<br>
+<center><img src="images/industrias_duero.jpg" width = "100px"/></center>
+<br>
+
+
+---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
 
 
