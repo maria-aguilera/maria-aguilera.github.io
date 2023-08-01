@@ -136,7 +136,7 @@ def reward_function(params):
 ## Major Projects
 ### Corporate Data Breaches and Narrative Disclosures
   <a href="pdf/version_final_corporate_data_breaches_and_narrative_disclosures.pdf">Link</a>
-* Undergraduate Thesis Project & 2019, 2020 INNCYYBER Innovation Award: <a href="pdf/version_final_corporate_data_breaches_and_narrative_disclosures.pdf">Link</a>
+* Undergraduate Thesis Project & 2019, 2020 INNCYYBER Innovation Award.
 * The goal was to examine how data breaches affect corporate communication of public U.S. data breached firms by examining whether managers engage in managerial discretionary disclosure behavior in the 10-K annual reports or whether they provide incrementally useful information aimed at enhancing decision making by filing infrastructure gaps.
 * Grade:  9.7/10.
 
